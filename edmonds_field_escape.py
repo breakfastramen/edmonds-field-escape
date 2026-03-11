@@ -461,4 +461,5 @@ print("'Clearly the Dark Guy no longer worries about exposing its plans,' Moira 
 print("'You almost fought well enough to not embarrass me,' Bland admits. You attempt to resist the urge to mentally label him as New Dad. You fail.")
 print("CONGRATULATIONS, PLAYER! You have successfully escaped Edmonds Field and evaded the forces of the Dark Guy.")
 print("Stay tuned for the next installment, The Suspciously Shaped Island of Nott Avalon!")
+input("Press Enter to End")
 sys.exit()
